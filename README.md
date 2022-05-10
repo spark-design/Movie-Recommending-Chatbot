@@ -1,0 +1,2 @@
+# Movie-Recommending-Chatbot
+Run a virtual environment if there are issues getting localhost to work. Open the link given by program once it is run to get to localhost link. This uses a web scraper to get information from IMDB's website on movies and based on info given from the user tells the user what movie matches their interests. Flask is used to connect Python and HTML. Beautiful Soup is used for the web scraper.
